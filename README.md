@@ -1,6 +1,6 @@
 # Gestion-de-Banque-with-Symfony-PHP-In-Linux-18.04-LTS
 
-Bank management carried out by Mohamed Ali Jaziri this project was carried out by the framework symfony. In this project, I did the same thing that I used in the Spring Boot project. You have to watch all the video in the details folder of this work and you can watch my vidéo on my YouTube chanel https://www.youtube.com/watch?v=YIZzEBJPp58&t=12s.
+Bank management carried out by Mohamed Ali Jaziri this project was carried out by the framework symfony. In this project, I did the same thing that I used in the Spring Boot project. You have to watch all the video in the details folder of this work.
  
 
 # Bank management in Symfony Framework
